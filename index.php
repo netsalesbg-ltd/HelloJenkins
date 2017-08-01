@@ -4,6 +4,6 @@
 	<title>Hello Jenkins</title>
 </head>
 <body>
-	<h2><?php echo "Hello Jenkins";?></h2>
+	<h2><?php echo "Hello Jenkins v2";?></h2>
 </body>
 </html>
