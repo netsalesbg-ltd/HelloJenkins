@@ -17,3 +17,6 @@ php:
   # aliased to a recent 7.x version
   - 7.0
   # aliased to a recent hhvm version
+
+script:
+  - phpunit test/build_tests.php
