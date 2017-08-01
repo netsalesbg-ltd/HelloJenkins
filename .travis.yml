@@ -19,4 +19,4 @@ php:
   # aliased to a recent hhvm version
 
 script:
-  - phpunit tests/calculator.php
+  - phpunit tests/CalculatorTest.php
