@@ -18,3 +18,4 @@ php:
   - 7.0
   # aliased to a recent hhvm version
   - hhvm
+  dist: trusty
